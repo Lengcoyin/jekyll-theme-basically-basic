@@ -1,18 +1,19 @@
 ---
 title: 一直运转的是我们坚信的信仰
-layout: page
 date: 2022-12-19
 excerpt_separator: "<!--more-->"
-
-tags:
+categories: 
   - SVG制作
+tags:
+  - svg
+
 ---
 
-如何在自己的页面显示一个svg动画呢？
+##### 如何在自己的页面显示一个svg动画呢？
 
 <!--more-->
 
-##运转的文字圈
+### 运转的文字圈
 以下是我在[ **ANIMPEN码笔网** ](http://animpen.com/search/pens/?q=svg)上找到的一个旋转文字，原动画是这样。
 
 <style>@keyframes rotate {
@@ -54,7 +55,7 @@ body {
 </svg>
 
 
-##运转着背景变色的文字圈
+### 运转着背景变色的文字圈
 
 接着我增加了一段改变背景色的动画代码样式：
 
