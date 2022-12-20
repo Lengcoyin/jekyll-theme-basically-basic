@@ -9,7 +9,7 @@ html {
 body {
   background: $background-color;
   color: $text-color;
-  font-family: $global-font-family;
+  //font-family: $global-font-family;
 }
 
 blockquote,
@@ -53,7 +53,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $headline-font-family;
+  //font-family: $headline-font-family;
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
 
