@@ -10,6 +10,7 @@ tags:
 ---
 
 #### 大小不同的自行车因地心引力的作用下环绕着地球的<a href="http://animpen.com/pen/2sXIni">SVG动画</a>,试着将鼠标放在小自行车上看看吧！
+
 <!--more-->
 
 通过对原动画添加css过渡的hover，以及使用关键字动画进行设置，运用svg旋转和变换大小两种动画，来实现大小自行车都能一起环游世界的动画效果。
@@ -18,13 +19,19 @@ tags:
 小自行车紧跟其后，就像大小自行车你追我赶一样
 
 <style>
-body {
+.box {
+	width: 1500px;
+	height: 900px;
 	margin: 0;
+	
 	background: skyblue;
 }
 
 svg {
-	width: 100vw;
+	width: 1100px;
+	height: 900px;
+	position: static;
+	
 }
 
 .Bicicletas {
@@ -257,8 +264,8 @@ svg {
 
 </style>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-			viewBox="0 0 800 600" style="display: none;">
+<div class="box">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600" style="display: none;">
 			<symbol id="Cuadro" viewBox="0 0 800 600">
 				<polyline points="323.2,241.7 217.3,354.2 354.5,354.2 318.8,225.8 " stroke-linejoin="round"
 					stroke-width="11" />
@@ -432,4 +439,5 @@ svg {
 					</g>
 				</g>
 			</svg>
+		</div>
 		</div>
