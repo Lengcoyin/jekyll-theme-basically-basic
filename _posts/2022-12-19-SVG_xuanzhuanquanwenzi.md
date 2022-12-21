@@ -6,7 +6,6 @@ categories:
   - SVG制作
 tags:
   - svg
-
 ---
 
 ##### 如何在自己的页面显示一个svg动画呢？

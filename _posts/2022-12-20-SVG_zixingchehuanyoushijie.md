@@ -6,7 +6,6 @@ categories:
   - SVG制作
 tags:
   - svg
-
 ---
 
 #### 大小不同的自行车因地心引力的作用下环绕着地球的<a href="http://animpen.com/pen/2sXIni">SVG动画</a>,试着将鼠标放在小自行车上看看吧！
