@@ -18,7 +18,7 @@ tags:
 小自行车紧跟其后，就像大小自行车你追我赶一样
 
 <style>
-.box {
+.boz {
 	width: 1500px;
 	height: 900px;
 	margin: 0;
@@ -263,7 +263,7 @@ svg {
 
 </style>
 
-<div class="box">
+<div class="boz">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600" style="display: none;">
 			<symbol id="Cuadro" viewBox="0 0 800 600">
 				<polyline points="323.2,241.7 217.3,354.2 354.5,354.2 318.8,225.8 " stroke-linejoin="round"
