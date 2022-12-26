@@ -26,7 +26,7 @@ tags:
 	background: skyblue;
 }
 
-svg {
+.cat {
 	width: 1100px;
 	height: 900px;
 	position: static;
@@ -264,7 +264,7 @@ svg {
 </style>
 
 <div class="boz">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600" style="display: none;">
+<svg class="cat" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600" style="display: none;">
 			<symbol id="Cuadro" viewBox="0 0 800 600">
 				<polyline points="323.2,241.7 217.3,354.2 354.5,354.2 318.8,225.8 " stroke-linejoin="round"
 					stroke-width="11" />
@@ -276,7 +276,7 @@ svg {
 		</svg>
 		<!-- Visible -->
 		<div class="Bicicletas">
-			<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+			<svg class="cat" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 				viewBox="0 0 800 600">
 				<defs>
 					<g id="RuedaBike">
