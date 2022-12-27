@@ -21,7 +21,7 @@ tags:
 #### 飞机与货车赛跑赛了一整天
 通过添加代码，实现了css背景渐变的动画，运用svg的移动这种动画，来实现飞机与货车的赛跑。
 
-![](/assets/images/SVG制作/world_code.png)
+![](/assets/images/SVG制作/2022-12-20-world_code.png)
 
 接下来呈现出画面：
 <style>
