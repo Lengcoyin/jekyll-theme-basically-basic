@@ -16,10 +16,10 @@ categories:
 
 我们来欣赏以下平面设计图：
 
-![](assets/images/pmsj/breath.jpg)
-![](assets/images/pmsj/black.jpg)
-![](assets/images/pmsj/kuma.jpg)
-![](assets/images/pmsj/longday.jpg)
+![breath](assets/images/pmsj/breath.jpg)
+![black](assets/images/pmsj/black.jpg)
+![kuma](assets/images/pmsj/kuma.jpg)
+![longday](assets/images/pmsj/longday.jpg)
 
 想要挑选易于阅读的字体，手写字体、哥特字体和过于新颖的字体应当尽量避免使用。当然，如果是需要艺术性字体来做装饰的场景就另当别论了。
 

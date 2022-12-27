@@ -17,10 +17,10 @@ categories:
 当你重置浏览器大小的过程中，页面也会根据浏览器的宽度和高度重新渲染页面。
 
 媒体查询的写法：
-![](assets/images/studynotes/media_write.png)
+![media_write](assets/images/studynotes/media_write.png)
 
 以下是课堂上举的例子，将两行代码变换成文字语言叙述明白：
-![](assets/images/studynotes/media_screen.jpg)
+![media_screen](assets/images/studynotes/media_screen.jpg)
 
 - 注意，媒体查询中所出现的关键字：
 - and：可以将多个媒体特性连接一起
@@ -30,7 +30,7 @@ categories:
 如：@import url (“tiny.css”) screen and (min-width:200px) and (max-width:360px);使用最大宽度（max-width) 和最小宽度（min-width）设定了范围。因此，tiny.css只在设备视口介于200px和360px之间时才会被应用。
 #### viewport
 这里再加上viewport的知识点
-![](assets/images/studynotes/media_viewpoint.jpg)
+![media_viewpoint](assets/images/studynotes/media_viewpoint.jpg)
 - content=“ maximum-scale=2.0” 允许用户最大将页面放大到设备宽度的两倍- content=“ minimum-scale=0.5” 允许用户最小将页面缩小到设备宽度的一半- user-scalable=no   禁止用户缩放- user-scalable=yes  允许用户缩放
 
 ##### 弹性布局
@@ -42,8 +42,8 @@ flex布局则是一种新的布局方案，通过为修改父div的display属性
 - 这样恰当运用的弹性布局对用户十分友好，页面中的所有元素可以随着用户的偏好缩放，这也可以使用户获得一个很好的体验感以及观感。
 
 flexbox的属性：
-![](assets/images/studynotes/flex_a.jpg)
-![](assets/images/studynotes/flex_b.jpg)
+![flex_a](assets/images/studynotes/flex_a.jpg)
+![flex_b](assets/images/studynotes/flex_b.jpg)
 
 
 媒体查询与弹性布局我认为对于网页来说是一个重要的性能，他决定着这个网页在不同的媒体或是不同大小的观看屏幕上

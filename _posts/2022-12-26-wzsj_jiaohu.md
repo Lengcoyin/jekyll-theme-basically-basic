@@ -17,16 +17,16 @@ categories:
 但实际上，用户的使用场景很复杂，如果单凭感觉或者经验来设计，可能会带来糟糕的体验。
 在界面设计中，我们不可能将每个元素都向用户解释说明，这就需要在设计过程中通过观察用户行为、调研使用心理、分析用户场景等方法，站在用户的角度考虑问题。
 利用不同颜色的图标表示收藏、转发、评论等不同的操作，用户能更直观快速地分辨和使用。
-![](assets/images/wzsj/jiaohu_zhou.png)
+![jiaohu_zhou](assets/images/wzsj/jiaohu_zhou.png)
 
 #### 一致性
 交互界面设计中的一致性是指为实现特定目标，保持元素视觉关系、逻辑关系一致。
 这样能有效降低界面操作的门槛，减少认知成本，用户花更少的时间来理解产品。
-![](assets/images/wzsj/jiaohu_zou.png)
+![jiaohu_zou](assets/images/wzsj/jiaohu_zou.png)
 
 #### 导航层次结构
 为了保持交互界面的直观性，需要在主要功能和次要功能之间创建清晰的视觉层次结构，并在它们之间提供逻辑连接。
-![](assets/images/wzsj/jiaohu_zuo.png)
+![jiaohu_zuo](assets/images/wzsj/jiaohu_zuo.png)
 
 #### 符合浏览动线
 在界面设计中，可以使用常用的Z型和F型浏览动线，符合用户的浏览习惯。另外还需要注意首屏原则，将最重要的内容和界面元素放在屏幕的顶部。
