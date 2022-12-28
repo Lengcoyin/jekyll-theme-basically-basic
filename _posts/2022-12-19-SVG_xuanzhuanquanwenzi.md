@@ -22,7 +22,31 @@ tags:
 
 接着我增加了一段改变背景色的动画代码样式：
 
-![circle](/assets/images/SVG制作/2022-12-19-circle_code.png)
+【
+@keyframes rotate
+{
+	to{
+		transform: rotate(360deg);
+	}
+    0%   {background: skyblue;}
+    25%  {background: lightblue;}
+    50%  {background: pink;}
+    75%  {background: #FFC0CB; }
+    100% {background: skyblue;}
+}
+ 
+@-webkit-keyframes rotate /* Safari 与 Chrome */
+{
+	to{
+		transform: rotate(360deg);
+	}
+    0%   {background: skyblue;}
+    25%  {background: lightblue;}
+    50%  {background: pink;}
+    75%  {background: #FFC0CB;}
+    100% {background: skyblue;}
+}
+】
 
 于是一个根据有意义的粉蓝背景色进行变色的运转文字圈就完成啦！
 一直运转的文字是我目前最向往的希望，而这也是我坚信的永远不会改变的信仰。
