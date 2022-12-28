@@ -14,12 +14,11 @@ categories:
 #### 优秀文字排版设计
 对于设计而言，良好的排版不仅仅是摆上漂亮的字体就可以搞定的，高度的可读性和可识别性并不是简单的要求，视觉设计和内容风格也应当做好一致性。
 
-我们来欣赏以下平面设计图：
 
-![breath](assets/images/pmsj/breath.jpg)
-![black](assets/images/pmsj/black.jpg)
-![kuma](assets/images/pmsj/kuma.jpg)
-![longday](assets/images/pmsj/longday.jpg)
+![](assets/images/pmsj/breath.jpg)
+![](assets/images/pmsj/black.jpg)
+![](assets/images/pmsj/kuma.jpg)
+![](assets/images/pmsj/longday.jpg)
 
 想要挑选易于阅读的字体，手写字体、哥特字体和过于新颖的字体应当尽量避免使用。当然，如果是需要艺术性字体来做装饰的场景就另当别论了。
 

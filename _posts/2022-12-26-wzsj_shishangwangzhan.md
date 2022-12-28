@@ -18,13 +18,13 @@ categories:
 
 #### Squarespace – Create Your Own Space
 Squarespace 网站界面的设计使用了一些把物化元素，增加整体视觉效果，但是图片的文件大小实在太大了。
-![fashion_big](assets/images/wzsj/fashion_big.png)
+![](assets/images/wzsj/fashion_big.png)
 网站页面占满屏幕时，此时网站判断出使用pc端登入，所以导航键依旧能看见以及一些其他搜索登录引擎。
 
-![fashion_middle](assets/images/wzsj/fashion_middle.png)
+![](assets/images/wzsj/fashion_middle.png)
 网站根据屏幕大小进行调整页面，判断出该画面大小是使用平板登入，此时大标题及副标题逐渐缩小，背景与图像也跟着缩小，但关键信息“get start”仍保存。
 
-![fashion_small](assets/images/wzsj/fashion_small.png)
+![](assets/images/wzsj/fashion_small.png)
 网站判断此时使用手机端登入，适应屏幕大小，保留关键信息，做出与手机客户端合适的交互。
 
 [浏览网页](https://www.squarespace.com/)
@@ -32,21 +32,21 @@ Squarespace 网站界面的设计使用了一些把物化元素，增加整体�
 
 #### Specsavers Spectacle Wearer Of The Year
 这个响应式网页像使用了流布局插件一样，改变屏幕大小的时候列和方格宽度都会自动改变，但不影响浏览。
-![act](assets/images/wzsj/act.jpg)
+![](assets/images/wzsj/act.jpg)
 
 [浏览网页](https://www.specsavers.co.uk/loveglasses)
 
 
 #### INSTNT With RTT
 这网站使用的技术确实够前卫了，响应式、HTML5\CSS3等技术运用得非常熟练。
-![car](assets/images/wzsj/car.jpg)
+![](assets/images/wzsj/car.jpg)
 
 [浏览网站](https://www2.dnfs24.com/en/instnt.de)
 
 
 #### Gc Watches
 使用黑白照片来作为banner的网页设计现在越来越多，可以参考这里[paper](https://www.shejidaren.com/black-white-photogarphy-in-web-designs.html)
-![watch](assets/images/wzsj/watch.png)
+![](assets/images/wzsj/watch.png)
 
 [浏览网页](https://shop.gcwatches.com/)
 

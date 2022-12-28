@@ -25,28 +25,36 @@ categories:
 更多请参考：[HTML5所有标签](https://www.w3.org/TR/html5/semantics.html#semantics)
 * HTML5新语义标签更注重于内容而不是形式,更加语义化，高度描述性，更加直观，增加了代码的可读性,同时浏览器更容易解析，搜索引擎更容易抓取文档内容。
 
-![id](assets/images/studynotes/biaoqian1.jpg)
-![ud](assets/images/studynotes/biaoqian2.jpg)
+![](assets/images/studynotes/biaoqian1.jpg)
+![](assets/images/studynotes/biaoqian2.jpg)
 
 
 #### 块标签与内联标签
 - 块标签的特点：
-![块标签](assets/images/studynotes/biaoqian_block.png)
+1.总是在新行上开始
+2.高度，行高以及顶和底边距都可控制
+3.宽度缺省是它的容器的100%，除非设定一个宽度
+4.div,p,h1,form,ul和li是块元素的例子
 
 - 内联标签的特点：
-![内联标签](assets/images/studynotes/biaoqian_inline.png)
+1.和其他元素都在一行上
+2.高，行高及顶和底边距不可改变
+3.宽度就是他的文字或图片的宽度，不可改变
+4.span,a,label,input,img,strong,em是inline元素的例子
+5.内联元素只能容纳文本或其他内联元素
 
 
 注意：
-1.块级元素可以包含内联元素或某些块级元素，但内联元素不能包含块级元素，他只能包含其他内联元素。
-2.块级元素不能放在p里面。
-3.特殊的块级元素只能包含内联元素，不能包含块级元素。如h1,h2,h3,p,dt
-4.li内可以包含div
-5.块级元素与块级元素并列、内联元素与内联元素并列。
+1. 块级元素可以包含内联元素或某些块级元素，但内联元素不能包含块级元素，他只能包含其他内联元素。
+2. 块级元素不能放在p里面。
+3. 特殊的块级元素只能包含内联元素，不能包含块级元素。如h1,h2,h3,p,dt
+4. li内可以包含div
+5. 块级元素与块级元素并列、内联元素与内联元素并列。
 
 #### a标签和img标签
-![a标签与img标签](assets/images/studynotes/biaoqian_img.png)
-
+![](assets/images/studynotes/biaoqian_img.png)
+<a href="需要链接的网页地址" target="打开网页的方式"></a>
+<img src="图片的路径地址" alt="图片说明">
 
 
 更多请看：[更多](https://www.w3school.com.cn/html/html5_semantic_elements.asp)
