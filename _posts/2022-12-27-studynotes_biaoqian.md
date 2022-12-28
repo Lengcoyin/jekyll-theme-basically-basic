@@ -53,8 +53,8 @@ categories:
 
 #### a标签和img标签
 ![](assets/images/studynotes/biaoqian_img.png)
-<a href="需要链接的网页地址" target="打开网页的方式"></a>
-<img src="图片的路径地址" alt="图片说明">
+a href="需要链接的网页地址" target="打开网页的方式"></
+img src="图片的路径地址" alt="图片说明">
 
 
 更多请看：[更多](https://www.w3school.com.cn/html/html5_semantic_elements.asp)
